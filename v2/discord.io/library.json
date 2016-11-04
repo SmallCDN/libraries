@@ -1,0 +1,16 @@
+{
+  "name": "discord.io",
+  "mainfiles": ["index.js"],
+  "version": "2.2.4",
+  "description": "JavaScript interface for Discord.",
+  "homepage": "https://github.com/izy521/discord.io#readme",
+  "keywords": [
+    "Discord",
+    "Discordapp",
+    "Client",
+    "Bot",
+    "Library"
+  ],
+  "license": "MIT",
+  "author": "izy521"
+}
