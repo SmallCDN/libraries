@@ -1,6 +1,6 @@
 {
   "name": "animate.css",
-  "mainfiles": ["animate.css"],
+  "mainfiles": ["animate.min.css"],
   "version": "3.5.2",
   "description": "A cross-browser library of CSS animations. As easy to use as an easy thing.",
   "homepage": "http://daneden.me/animate",
