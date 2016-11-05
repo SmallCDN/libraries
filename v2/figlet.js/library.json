@@ -1,0 +1,16 @@
+{
+  "name": "figlet.js",
+  "mainfiles": ["figlet.min.js"],
+  "version": "1.2.0",
+  "description": "Creates ASCII Art from text. A full implementation of the FIGfont spec.",
+  "homepage": "https://github.com/patorjk/figlet.js",
+  "keywords": [
+    "figlet",
+    "ascii",
+    "art",
+    "banner",
+    "ansi"
+  ],
+  "license": "MIT",
+  "author": "Patrick Gillespie"
+}
