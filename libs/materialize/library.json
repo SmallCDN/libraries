@@ -1,7 +1,6 @@
 {
   "name": "Materialize",
   "mainfiles": ["materialize.min.css"],
-  "version": "0.97.8",
   "description": "A modern responsive front-end framework based on Material Design",
   "homepage": "http://materializecss.com/",
   "keywords": [],
