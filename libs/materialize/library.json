@@ -5,5 +5,8 @@
   "homepage": "http://materializecss.com/",
   "keywords": [],
   "license": "MIT",
-  "author": "Alvin Wang, Alan Chang"
+  "author": "Alvin Wang, Alan Chang",
+  "dependencies": {
+    "jquery": "3.x.x"
+  }
 }
