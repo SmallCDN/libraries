@@ -1,6 +1,6 @@
 {
   "name": "Materialize",
-  "mainfiles": ["materialize.min.css"],
+  "index": "materialize.min.css",
   "description": "A modern responsive front-end framework based on Material Design",
   "homepage": "http://materializecss.com/",
   "keywords": [],

@@ -1,0 +1,11 @@
+{
+  "name": "jQuery",
+  "index": "jquery.min.js",
+  "description": "JavaScript library for DOM operations",
+  "homepage": "https://jquery.com/",
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "author": "jQuery Foundation and other contributors"
+}

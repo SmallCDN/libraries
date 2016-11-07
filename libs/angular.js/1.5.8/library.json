@@ -1,0 +1,9 @@
+{
+  "name": "AngularJS",
+  "index": "angular.min.js",
+  "description": "HTML enhanced for web apps",
+  "homepage": "https://angularjs.org/",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Google"
+}

@@ -1,6 +1,6 @@
 {
   "name": "discord.io",
-  "mainfiles": ["index.js"],
+  "index": "index.js",
   "description": "JavaScript interface for Discord.",
   "homepage": "https://github.com/izy521/discord.io#readme",
   "keywords": [

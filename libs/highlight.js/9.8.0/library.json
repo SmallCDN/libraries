@@ -1,6 +1,6 @@
 {
   "name": "highlight.js",
-  "mainfiles": ["highlight.min.js"],
+  "index": "highlight.min.js",
   "description": "Syntax highlighting with language autodetection.",
   "homepage": "https://highlightjs.org/",
   "keywords": [
