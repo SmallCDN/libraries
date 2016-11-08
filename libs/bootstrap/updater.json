@@ -1,0 +1,10 @@
+{
+  "source": "github:twitter/bootstrap",
+  "root": "/dist",
+  "files": [
+    "js/bootstrap.js",
+    "js/bootstrap.min.js",
+    "css/bootstrap.css",
+    "css/bootstrap.min.css"
+  ]
+}

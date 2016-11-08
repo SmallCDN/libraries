@@ -1,0 +1,5 @@
+{
+  "source": "github:patorjk/figlet.js",
+  "root": "/lib",
+  "files": ["figlet.js"]
+}

@@ -1,0 +1,5 @@
+{
+  "source": "github:izy521/discord.io",
+  "root": "/lib",
+  "files": ["index.js"]
+}

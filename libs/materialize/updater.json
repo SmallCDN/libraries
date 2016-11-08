@@ -1,0 +1,10 @@
+{
+  "source": "github:dogfalo/materialize",
+  "root": "/dist",
+  "files": [
+    "css/materialize.css",
+    "css/materialize.min.css",
+    "js/materialize.js",
+    "js/materialize.min.js"
+  ]
+}
