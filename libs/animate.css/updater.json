@@ -1,8 +1,8 @@
 {
   "source": "github:daneden/animate.css#master",
   "root": "/",
-  "files": [
-    "animate.css",
-    "animate.min.css"
-  ]
+  "files": {
+    "animate.css": "animate.css",
+    "animate.min.css": "animate.min.css"
+  }
 }

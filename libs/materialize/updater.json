@@ -1,10 +1,10 @@
 {
   "source": "github:dogfalo/materialize#master",
   "root": "dist/",
-  "files": [
-    "css/materialize.css",
-    "css/materialize.min.css",
-    "js/materialize.js",
-    "js/materialize.min.js"
-  ]
+  "files": {
+    "materialize.css": "css/materialize.css",
+    "materialize.min.css": "css/materialize.min.css",
+    "materialize.js": "js/materialize.js",
+    "materialize.min.js": "js/materialize.min.js"
+  }
 }
