@@ -1,5 +1,5 @@
 {
-  "source": "github:daneden/animate.css",
+  "source": "github:daneden/animate.css#master",
   "root": "/",
   "files": [
     "animate.css",

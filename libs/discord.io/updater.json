@@ -1,5 +1,5 @@
 {
-  "source": "github:izy521/discord.io",
-  "root": "/lib",
-  "files": ["index.js"]
+  "source": "github:izy521/discord.io#master",
+  "root": "lib/",
+  "files": {"index.js": "index.js"}
 }

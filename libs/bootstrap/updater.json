@@ -1,6 +1,6 @@
 {
-  "source": "github:twitter/bootstrap",
-  "root": "/dist",
+  "source": "github:twitter/bootstrap#master",
+  "root": "dist/",
   "files": [
     "js/bootstrap.js",
     "js/bootstrap.min.js",

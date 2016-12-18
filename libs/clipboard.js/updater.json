@@ -1,8 +1,8 @@
 {
-  "source": "github:zenorocha/clipboard.js",
-  "root": "/dist",
-  "files": [
-    "clipboard.js",
-    "clipboard.min.js"
-  ]
+  "source": "github:zenorocha/clipboard.js#master",
+  "root": "dist/",
+  "files": {
+    "clipboard.js": "clipboard.js",
+    "clipboard.min.js": "clipboard.min.js"
+  }
 }
