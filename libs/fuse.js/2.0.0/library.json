@@ -1,0 +1,13 @@
+{
+  "name": "fuse.js",
+  "index": "fuse.min.js",
+  "description": "Lightweight fuzzy-search",
+  "homepage": "http://fusejs.io/",
+  "keywords": [
+    "fuzzy",
+    "search",
+    "lightweight"
+  ],
+  "license": "Apache",
+  "author": "Kirollos Risk"
+}

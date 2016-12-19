@@ -1,0 +1,8 @@
+{
+  "source": "github:krisk/Fuse#master",
+  "root": "src/",
+  "files": {
+    "fuse.js": "fuse.js",
+    "fuse.min.js": "fuse.min.js"
+  }
+}
